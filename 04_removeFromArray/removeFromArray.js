@@ -8,7 +8,7 @@ const removeFromArray = function(array, ...args) {
       newArray.push(item);
     }
   });
-  // and return that array
+  
   return newArray;
   
   
